@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arduino | NickKok</title>
+    <link>http://localhost:1313/my-website/tag/arduino/</link>
+      <atom:link href="http://localhost:1313/my-website/tag/arduino/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arduino</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/my-website/media/icon_huf873f34441e4069cf09f0b447cba65ba_5052_512x512_fill_lanczos_center_2.png</url>
+      <title>Arduino</title>
+      <link>http://localhost:1313/my-website/tag/arduino/</link>
+    </image>
+    
+    <item>
+      <title>Quadcopter</title>
+      <link>http://localhost:1313/my-website/project/quadcopter/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-website/project/quadcopter/</guid>
+      <description>&lt;p&gt;The idea behind this thesis is to create a quadcopter that a user could control it through WIFI. At this stage the quadcopter has sensors (DHT, Flame detector, Microphone, IR sensor) and a usb camera and it feasible to control it with a browser. The purpose of the sensor is to check out how they are working on quadcopter and for the future to make more automation task perceive a fire at a forest for example and find the persons which are close and notify the rescue team.&lt;/p&gt;
+&lt;p&gt;This is an Arduino YUN application developed during 2017.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

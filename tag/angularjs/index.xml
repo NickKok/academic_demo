@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AngularJs | NickKok</title>
+    <link>http://localhost:1313/my-website/tag/angularjs/</link>
+      <atom:link href="http://localhost:1313/my-website/tag/angularjs/index.xml" rel="self" type="application/rss+xml" />
+    <description>AngularJs</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/my-website/media/icon_huf873f34441e4069cf09f0b447cba65ba_5052_512x512_fill_lanczos_center_2.png</url>
+      <title>AngularJs</title>
+      <link>http://localhost:1313/my-website/tag/angularjs/</link>
+    </image>
+    
+    <item>
+      <title>RefuGr/NativeNet</title>
+      <link>http://localhost:1313/my-website/project/refugr/</link>
+      <pubDate>Sat, 10 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-website/project/refugr/</guid>
+      <description>&lt;p&gt;Our team won first prize at Hack the Camp (100 participants hackathon). We built a prototype of a mobile app that would help immigrants have access to information shared by Athens-based NGOs. The app also offered video-based language courses of Greek-Farsi.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
