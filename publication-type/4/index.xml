@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>4 | NickKok</title>
-    <link>http://localhost:45073/my-website/publication-type/4/</link>
-      <atom:link href="http://localhost:45073/my-website/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <title>4 | Nick Kokkinis</title>
+    <link>http://localhost:45463/my-website/publication-type/4/</link>
+      <atom:link href="http://localhost:45463/my-website/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
     <description>4</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:45073/my-website/media/icon_huf873f34441e4069cf09f0b447cba65ba_5052_512x512_fill_lanczos_center_2.png</url>
+      <url>http://localhost:45463/my-website/media/icon_huf873f34441e4069cf09f0b447cba65ba_5052_512x512_fill_lanczos_center_2.png</url>
       <title>4</title>
-      <link>http://localhost:45073/my-website/publication-type/4/</link>
+      <link>http://localhost:45463/my-website/publication-type/4/</link>
     </image>
     
     <item>
       <title>The Compact Linear Collider (CLIC)-2018 Summary Report</title>
-      <link>http://localhost:45073/my-website/publication/the-compact-linear-collider-clic-2018-summary-report/</link>
+      <link>http://localhost:45463/my-website/publication/the-compact-linear-collider-clic-2018-summary-report/</link>
       <pubDate>Fri, 14 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45073/my-website/publication/the-compact-linear-collider-clic-2018-summary-report/</guid>
+      <guid>http://localhost:45463/my-website/publication/the-compact-linear-collider-clic-2018-summary-report/</guid>
       <description></description>
     </item>
     

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Numpy | NickKok</title>
-    <link>http://localhost:45073/my-website/tag/numpy/</link>
-      <atom:link href="http://localhost:45073/my-website/tag/numpy/index.xml" rel="self" type="application/rss+xml" />
+    <title>Numpy | Nick Kokkinis</title>
+    <link>http://localhost:45463/my-website/tag/numpy/</link>
+      <atom:link href="http://localhost:45463/my-website/tag/numpy/index.xml" rel="self" type="application/rss+xml" />
     <description>Numpy</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:45073/my-website/media/icon_huf873f34441e4069cf09f0b447cba65ba_5052_512x512_fill_lanczos_center_2.png</url>
+      <url>http://localhost:45463/my-website/media/icon_huf873f34441e4069cf09f0b447cba65ba_5052_512x512_fill_lanczos_center_2.png</url>
       <title>Numpy</title>
-      <link>http://localhost:45073/my-website/tag/numpy/</link>
+      <link>http://localhost:45463/my-website/tag/numpy/</link>
     </image>
     
     <item>
       <title>Visualization of lexico-semantic networks</title>
-      <link>http://localhost:45073/my-website/project/visualization-of-lexico-semantic-networks/</link>
+      <link>http://localhost:45463/my-website/project/visualization-of-lexico-semantic-networks/</link>
       <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45073/my-website/project/visualization-of-lexico-semantic-networks/</guid>
+      <guid>http://localhost:45463/my-website/project/visualization-of-lexico-semantic-networks/</guid>
       <description>&lt;p&gt;Assisted the Neuroscience department of Geneva University with analyzing and visualizing lexico-
 semantic data.&lt;/p&gt;
 </description>
