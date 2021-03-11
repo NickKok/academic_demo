@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://NickKok.github.io/my-website/sitemap.xml
