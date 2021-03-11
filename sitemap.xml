@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://NickKok.github.io/my-website/talk/example-talk/</loc>
+    <loc>http://localhost:1313/academic_demo/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://NickKok.github.io/my-website/</loc>
+    <loc>http://localhost:1313/academic_demo/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://NickKok.github.io/my-website/event/</loc>
+    <loc>http://localhost:1313/academic_demo/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://NickKok.github.io/my-website/tag/academic/</loc>
+    <loc>http://localhost:1313/academic_demo/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://NickKok.github.io/my-website/categories/</loc>
+    <loc>http://localhost:1313/academic_demo/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://NickKok.github.io/my-website/category/demo/</loc>
+    <loc>http://localhost:1313/academic_demo/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://NickKok.github.io/my-website/post/</loc>
+    <loc>http://localhost:1313/academic_demo/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://NickKok.github.io/my-website/tags/</loc>
+    <loc>http://localhost:1313/academic_demo/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://NickKok.github.io/my-website/post/getting-started/</loc>
+    <loc>http://localhost:1313/academic_demo/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://NickKok.github.io/my-website/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>http://localhost:1313/academic_demo/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://NickKok.github.io/my-website/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://localhost:1313/academic_demo/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://NickKok.github.io/my-website/slides/</loc>
+    <loc>http://localhost:1313/academic_demo/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://NickKok.github.io/my-website/slides/example/</loc>
+    <loc>http://localhost:1313/academic_demo/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://NickKok.github.io/my-website/privacy/</loc>
+    <loc>http://localhost:1313/academic_demo/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://NickKok.github.io/my-website/terms/</loc>
+    <loc>http://localhost:1313/academic_demo/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://NickKok.github.io/my-website/tag/deep-learning/</loc>
+    <loc>http://localhost:1313/academic_demo/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://NickKok.github.io/my-website/project/example/</loc>
+    <loc>http://localhost:1313/academic_demo/project/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://NickKok.github.io/my-website/project/</loc>
+    <loc>http://localhost:1313/academic_demo/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://NickKok.github.io/my-website/publication-type/1/</loc>
+    <loc>http://localhost:1313/academic_demo/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://NickKok.github.io/my-website/publication/example/</loc>
+    <loc>http://localhost:1313/academic_demo/publication/example/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://NickKok.github.io/my-website/publication_types/</loc>
+    <loc>http://localhost:1313/academic_demo/publication_types/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://NickKok.github.io/my-website/publication/</loc>
+    <loc>http://localhost:1313/academic_demo/publication/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://NickKok.github.io/my-website/admin/</loc>
+    <loc>http://localhost:1313/academic_demo/admin/</loc>
   </url>
 </urlset>
