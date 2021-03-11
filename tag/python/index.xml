@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python | NickKok</title>
+    <link>http://localhost:45073/my-website/tag/python/</link>
+      <atom:link href="http://localhost:45073/my-website/tag/python/index.xml" rel="self" type="application/rss+xml" />
+    <description>python</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:45073/my-website/media/icon_huf873f34441e4069cf09f0b447cba65ba_5052_512x512_fill_lanczos_center_2.png</url>
+      <title>python</title>
+      <link>http://localhost:45073/my-website/tag/python/</link>
+    </image>
+    
+    <item>
+      <title>Implementation of Reinforcement Learning (RL) algorithms</title>
+      <link>http://localhost:45073/my-website/project/rl/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:45073/my-website/project/rl/</guid>
+      <description>&lt;p&gt;Implement algorithms from RL papers.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

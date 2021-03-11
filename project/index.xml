@@ -2,21 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | NickKok</title>
-    <link>http://localhost:1313/my-website/project/</link>
-      <atom:link href="http://localhost:1313/my-website/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:45073/my-website/project/</link>
+      <atom:link href="http://localhost:45073/my-website/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/my-website/media/icon_huf873f34441e4069cf09f0b447cba65ba_5052_512x512_fill_lanczos_center_2.png</url>
+      <url>http://localhost:45073/my-website/media/icon_huf873f34441e4069cf09f0b447cba65ba_5052_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>http://localhost:1313/my-website/project/</link>
+      <link>http://localhost:45073/my-website/project/</link>
     </image>
     
     <item>
+      <title>Implementation of Reinforcement Learning (RL) algorithms</title>
+      <link>http://localhost:45073/my-website/project/rl/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:45073/my-website/project/rl/</guid>
+      <description>&lt;p&gt;Implement algorithms from RL papers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Visualization of lexico-semantic networks</title>
-      <link>http://localhost:1313/my-website/project/visualization-of-lexico-semantic-networks/</link>
+      <link>http://localhost:45073/my-website/project/visualization-of-lexico-semantic-networks/</link>
       <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/my-website/project/visualization-of-lexico-semantic-networks/</guid>
+      <guid>http://localhost:45073/my-website/project/visualization-of-lexico-semantic-networks/</guid>
       <description>&lt;p&gt;Assisted the Neuroscience department of Geneva University with analyzing and visualizing lexico-
 semantic data.&lt;/p&gt;
 </description>
@@ -24,18 +33,18 @@ semantic data.&lt;/p&gt;
     
     <item>
       <title>Baxter Mimic</title>
-      <link>http://localhost:1313/my-website/project/baxter-mimic-/</link>
+      <link>http://localhost:45073/my-website/project/baxter-mimic-/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/my-website/project/baxter-mimic-/</guid>
+      <guid>http://localhost:45073/my-website/project/baxter-mimic-/</guid>
       <description>&lt;p&gt;A processing sketch and some bash scripts to get a Rethink Robotics Baxter robot to mimic arm movements. This was developed for the Cineglobe 2018 film festival at CERN. It&amp;rsquo;s very rough, and is basically just a proof of concept. I&amp;rsquo;d like to thank everyone who wrote the code underneath in many, many libraries which we used to build this in about 5 hours.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Quadcopter</title>
-      <link>http://localhost:1313/my-website/project/quadcopter/</link>
+      <link>http://localhost:45073/my-website/project/quadcopter/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/my-website/project/quadcopter/</guid>
+      <guid>http://localhost:45073/my-website/project/quadcopter/</guid>
       <description>&lt;p&gt;The idea behind this thesis is to create a quadcopter that a user could control it through WIFI. At this stage the quadcopter has sensors (DHT, Flame detector, Microphone, IR sensor) and a usb camera and it feasible to control it with a browser. The purpose of the sensor is to check out how they are working on quadcopter and for the future to make more automation task perceive a fire at a forest for example and find the persons which are close and notify the rescue team.&lt;/p&gt;
 &lt;p&gt;This is an Arduino YUN application developed during 2017.&lt;/p&gt;
 </description>
@@ -43,18 +52,18 @@ semantic data.&lt;/p&gt;
     
     <item>
       <title>RefuGr/NativeNet</title>
-      <link>http://localhost:1313/my-website/project/refugr/</link>
+      <link>http://localhost:45073/my-website/project/refugr/</link>
       <pubDate>Sat, 10 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/my-website/project/refugr/</guid>
+      <guid>http://localhost:45073/my-website/project/refugr/</guid>
       <description>&lt;p&gt;Our team won first prize at Hack the Camp (100 participants hackathon). We built a prototype of a mobile app that would help immigrants have access to information shared by Athens-based NGOs. The app also offered video-based language courses of Greek-Farsi.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>DepictIt</title>
-      <link>http://localhost:1313/my-website/project/depictit/</link>
+      <link>http://localhost:45073/my-website/project/depictit/</link>
       <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/my-website/project/depictit/</guid>
+      <guid>http://localhost:45073/my-website/project/depictit/</guid>
       <description>&lt;p&gt;The idea behind this application is to create a game which uses Facebook &lt;a href=&#34;https://messengerplatform.fb.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Messenger bot&lt;/a&gt; as it&amp;rsquo;s frontend and &lt;a href=&#34;https://cloud.google.com/vision/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Vision API&lt;/a&gt; as its backend to emulate a taboo like game. The aim of the game is to describe to your team the picture without saying the words below it. The team with the most points wins.&lt;/p&gt;
 &lt;p&gt;This is an Python Django application developed during &lt;a href=&#34;http://hackzurich.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HackZurich&lt;/a&gt; 2016.&lt;/p&gt;
 </description>

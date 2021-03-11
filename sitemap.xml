@@ -2,128 +2,137 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/my-website/post/getting-started/</loc>
+    <loc>http://localhost:45073/my-website/project/rl/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:45073/my-website/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:45073/my-website/project/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:45073/my-website/tag/python/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:45073/my-website/tag/rl/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:45073/my-website/tags/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:45073/my-website/post/getting-started/</loc>
     <lastmod>2019-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/tag/genetics-algorithms/</loc>
+    <loc>http://localhost:45073/my-website/tag/genetics-algorithms/</loc>
     <lastmod>2019-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/tag/metahauristic/</loc>
+    <loc>http://localhost:45073/my-website/tag/metahauristic/</loc>
     <lastmod>2019-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/</loc>
+    <loc>http://localhost:45073/my-website/post/</loc>
     <lastmod>2019-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/post/</loc>
-    <lastmod>2019-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/my-website/tags/</loc>
-    <lastmod>2019-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/my-website/tag/d3.js/</loc>
+    <loc>http://localhost:45073/my-website/tag/d3.js/</loc>
     <lastmod>2019-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/tag/django/</loc>
+    <loc>http://localhost:45073/my-website/tag/django/</loc>
     <lastmod>2019-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/tag/numpy/</loc>
+    <loc>http://localhost:45073/my-website/tag/numpy/</loc>
     <lastmod>2019-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/tag/pandas/</loc>
+    <loc>http://localhost:45073/my-website/tag/pandas/</loc>
     <lastmod>2019-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/project/</loc>
+    <loc>http://localhost:45073/my-website/project/visualization-of-lexico-semantic-networks/</loc>
     <lastmod>2019-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/project/visualization-of-lexico-semantic-networks/</loc>
-    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/my-website/slides/</loc>
+    <loc>http://localhost:45073/my-website/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/slides/example/</loc>
+    <loc>http://localhost:45073/my-website/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/publication-type/4/</loc>
+    <loc>http://localhost:45073/my-website/publication-type/4/</loc>
     <lastmod>2018-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/tag/accelerator-physics/</loc>
+    <loc>http://localhost:45073/my-website/tag/accelerator-physics/</loc>
     <lastmod>2018-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/publication_types/</loc>
+    <loc>http://localhost:45073/my-website/publication_types/</loc>
     <lastmod>2018-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/publication/</loc>
+    <loc>http://localhost:45073/my-website/publication/</loc>
     <lastmod>2018-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/publication/the-compact-linear-collider-clic-2018-summary-report/</loc>
+    <loc>http://localhost:45073/my-website/publication/the-compact-linear-collider-clic-2018-summary-report/</loc>
     <lastmod>2018-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/project/baxter-mimic-/</loc>
+    <loc>http://localhost:45073/my-website/project/baxter-mimic-/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/tag/processing/</loc>
+    <loc>http://localhost:45073/my-website/tag/processing/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/tag/ros/</loc>
+    <loc>http://localhost:45073/my-website/tag/ros/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/tag/arduino/</loc>
+    <loc>http://localhost:45073/my-website/tag/arduino/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/project/quadcopter/</loc>
+    <loc>http://localhost:45073/my-website/project/quadcopter/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/tag/angularjs/</loc>
+    <loc>http://localhost:45073/my-website/tag/angularjs/</loc>
     <lastmod>2016-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/tag/bootstrap/</loc>
+    <loc>http://localhost:45073/my-website/tag/bootstrap/</loc>
     <lastmod>2016-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/tag/firebase/</loc>
+    <loc>http://localhost:45073/my-website/tag/firebase/</loc>
     <lastmod>2016-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/tag/ionicframework/</loc>
+    <loc>http://localhost:45073/my-website/tag/ionicframework/</loc>
     <lastmod>2016-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/project/refugr/</loc>
+    <loc>http://localhost:45073/my-website/project/refugr/</loc>
     <lastmod>2016-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/tag/sql/</loc>
+    <loc>http://localhost:45073/my-website/tag/sql/</loc>
     <lastmod>2016-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/project/depictit/</loc>
+    <loc>http://localhost:45073/my-website/project/depictit/</loc>
     <lastmod>2016-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/tag/google-vision-api/</loc>
+    <loc>http://localhost:45073/my-website/tag/google-vision-api/</loc>
     <lastmod>2016-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/tag/messenger-bot-api/</loc>
+    <loc>http://localhost:45073/my-website/tag/messenger-bot-api/</loc>
     <lastmod>2016-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/publication-type/1/</loc>
+    <loc>http://localhost:45073/my-website/publication-type/1/</loc>
     <lastmod>2014-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/publication/example/</loc>
+    <loc>http://localhost:45073/my-website/publication/example/</loc>
     <lastmod>2014-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/tag/feature-extraction/</loc>
+    <loc>http://localhost:45073/my-website/tag/feature-extraction/</loc>
     <lastmod>2014-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/tag/motion-pictures/</loc>
+    <loc>http://localhost:45073/my-website/tag/motion-pictures/</loc>
     <lastmod>2014-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/tag/multimedia-communication/</loc>
+    <loc>http://localhost:45073/my-website/tag/multimedia-communication/</loc>
     <lastmod>2014-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/tag/recommender-systems/</loc>
+    <loc>http://localhost:45073/my-website/tag/recommender-systems/</loc>
     <lastmod>2014-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/tag/visualization/</loc>
+    <loc>http://localhost:45073/my-website/tag/visualization/</loc>
     <lastmod>2014-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/admin/</loc>
+    <loc>http://localhost:45073/my-website/admin/</loc>
   </url><url>
-    <loc>http://localhost:1313/my-website/categories/</loc>
+    <loc>http://localhost:45073/my-website/categories/</loc>
   </url>
 </urlset>
