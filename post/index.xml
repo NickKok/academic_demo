@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Nick Kokkinis</title>
-    <link>http://localhost:45463/my-website/post/</link>
-      <atom:link href="http://localhost:45463/my-website/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/my-website/post/</link>
+      <atom:link href="http://localhost:1313/my-website/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:45463/my-website/media/icon_huf873f34441e4069cf09f0b447cba65ba_5052_512x512_fill_lanczos_center_2.png</url>
+      <url>http://localhost:1313/my-website/media/icon_huf873f34441e4069cf09f0b447cba65ba_5052_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>http://localhost:45463/my-website/post/</link>
+      <link>http://localhost:1313/my-website/post/</link>
     </image>
     
     <item>
       <title>Function Minimization using Genetic Algorithms</title>
-      <link>http://localhost:45463/my-website/post/getting-started/</link>
+      <link>http://localhost:1313/my-website/post/getting-started/</link>
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45463/my-website/post/getting-started/</guid>
+      <guid>http://localhost:1313/my-website/post/getting-started/</guid>
       <description>&lt;p&gt;I have a detailed article on  &lt;a href=&#34;https://medium.com/@nikoskokkini/function-minimization-using-genetic-algorithms-be2690621d88&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;medium&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 </description>

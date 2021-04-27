@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Nick Kokkinis</title>
-    <link>http://localhost:45463/my-website/categories/</link>
-      <atom:link href="http://localhost:45463/my-website/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/my-website/categories/</link>
+      <atom:link href="http://localhost:1313/my-website/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:45463/my-website/media/icon_huf873f34441e4069cf09f0b447cba65ba_5052_512x512_fill_lanczos_center_2.png</url>
+      <url>http://localhost:1313/my-website/media/icon_huf873f34441e4069cf09f0b447cba65ba_5052_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>
-      <link>http://localhost:45463/my-website/categories/</link>
+      <link>http://localhost:1313/my-website/categories/</link>
     </image>
     
   </channel>

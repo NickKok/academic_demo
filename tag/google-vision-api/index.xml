@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Google Vision API | Nick Kokkinis</title>
-    <link>http://localhost:45463/my-website/tag/google-vision-api/</link>
-      <atom:link href="http://localhost:45463/my-website/tag/google-vision-api/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/my-website/tag/google-vision-api/</link>
+      <atom:link href="http://localhost:1313/my-website/tag/google-vision-api/index.xml" rel="self" type="application/rss+xml" />
     <description>Google Vision API</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Sep 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:45463/my-website/media/icon_huf873f34441e4069cf09f0b447cba65ba_5052_512x512_fill_lanczos_center_2.png</url>
+      <url>http://localhost:1313/my-website/media/icon_huf873f34441e4069cf09f0b447cba65ba_5052_512x512_fill_lanczos_center_2.png</url>
       <title>Google Vision API</title>
-      <link>http://localhost:45463/my-website/tag/google-vision-api/</link>
+      <link>http://localhost:1313/my-website/tag/google-vision-api/</link>
     </image>
     
     <item>
       <title>DepictIt</title>
-      <link>http://localhost:45463/my-website/project/depictit/</link>
+      <link>http://localhost:1313/my-website/project/depictit/</link>
       <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45463/my-website/project/depictit/</guid>
+      <guid>http://localhost:1313/my-website/project/depictit/</guid>
       <description>&lt;p&gt;The idea behind this application is to create a game which uses Facebook &lt;a href=&#34;https://messengerplatform.fb.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Messenger bot&lt;/a&gt; as it&amp;rsquo;s frontend and &lt;a href=&#34;https://cloud.google.com/vision/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Vision API&lt;/a&gt; as its backend to emulate a taboo like game. The aim of the game is to describe to your team the picture without saying the words below it. The team with the most points wins.&lt;/p&gt;
 &lt;p&gt;This is an Python Django application developed during &lt;a href=&#34;http://hackzurich.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HackZurich&lt;/a&gt; 2016.&lt;/p&gt;
 </description>
