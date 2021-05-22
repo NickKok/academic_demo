@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Python | Nick Kokkinis</title>
-    <link>http://localhost:1313/my-website/tag/python/</link>
-      <atom:link href="http://localhost:1313/my-website/tag/python/index.xml" rel="self" type="application/rss+xml" />
-    <description>Python</description>
+    <title>TensorFlow | Nick Kokkinis</title>
+    <link>http://localhost:1313/my-website/tag/tensorflow/</link>
+      <atom:link href="http://localhost:1313/my-website/tag/tensorflow/index.xml" rel="self" type="application/rss+xml" />
+    <description>TensorFlow</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/my-website/media/icon_huf873f34441e4069cf09f0b447cba65ba_5052_512x512_fill_lanczos_center_2.png</url>
-      <title>Python</title>
-      <link>http://localhost:1313/my-website/tag/python/</link>
+      <title>TensorFlow</title>
+      <link>http://localhost:1313/my-website/tag/tensorflow/</link>
     </image>
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/my-website/project/online-robotic-simulated-challenges/</guid>
       <description>&lt;p&gt;Participated in the &lt;a href=&#34;https://www.youtube.com/watch?v=HNYKxHTt_Yc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;robotbenchmark&lt;/a&gt; and  &lt;a href=&#34;https://www.youtube.com/watch?v=HNYKxHTt_Yc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AWS DeepRacer&lt;/a&gt; challenges.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Implementation of Reinforcement Learning (RL) algorithms</title>
-      <link>http://localhost:1313/my-website/project/rl/</link>
-      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/my-website/project/rl/</guid>
-      <description>&lt;p&gt;Implement algorithms from RL papers.&lt;/p&gt;
 </description>
     </item>
     

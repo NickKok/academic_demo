@@ -5,12 +5,21 @@
     <link>http://localhost:1313/my-website/</link>
       <atom:link href="http://localhost:1313/my-website/index.xml" rel="self" type="application/rss+xml" />
     <description>Nick Kokkinis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/my-website/media/icon_huf873f34441e4069cf09f0b447cba65ba_5052_512x512_fill_lanczos_center_2.png</url>
       <title>Nick Kokkinis</title>
       <link>http://localhost:1313/my-website/</link>
     </image>
+    
+    <item>
+      <title>Online robotic simulated challenges</title>
+      <link>http://localhost:1313/my-website/project/online-robotic-simulated-challenges/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-website/project/online-robotic-simulated-challenges/</guid>
+      <description>&lt;p&gt;Participated in the &lt;a href=&#34;https://www.youtube.com/watch?v=HNYKxHTt_Yc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;robotbenchmark&lt;/a&gt; and  &lt;a href=&#34;https://www.youtube.com/watch?v=HNYKxHTt_Yc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AWS DeepRacer&lt;/a&gt; challenges.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Implementation of Reinforcement Learning (RL) algorithms</title>
